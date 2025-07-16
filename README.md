@@ -204,7 +204,7 @@ You can customize the prompt to match your formatting preferences or tone of voi
 ## ✍️ Author
 
 **Iftekhar Ahmed**
-Berlin, Germany
+**Berlin, Germany**
 *AI | ML | Automation | Sustainability*
  
 
