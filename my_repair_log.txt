@@ -1,0 +1,1 @@
+Customer reports frequent battery overheating warnings during fast charging sessions above 100 kW. Issue occurs in warm weather conditions (~35°C). Affects 2022 Audi Q4 e-tron, VIN: WA1VABFZ6NP012345. Technician noticed fan speed remains low during charging. Firmware version: BMS_4.2.1.

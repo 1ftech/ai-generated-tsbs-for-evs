@@ -1,0 +1,4 @@
+The vehicle intermittently loses regenerative braking functionality during downhill driving. Affects 2021 BMW iX3, VIN: WBXEVF12345678901. Technician observed error code RB-32 in the brake control module. Software version: BRK_SW_3.7.0.
+
+Driver complains of inconsistent climate control performance, especially sudden drops in cabin temperature during high humidity. Affects 2023 Mercedes EQC, VIN: WDC0X4EB6PF123456. Diagnostics reveal intermittent sensor failure on the HVAC module. Firmware version: HVAC_2.0.5.
+

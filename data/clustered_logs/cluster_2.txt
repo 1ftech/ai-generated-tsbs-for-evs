@@ -1,0 +1,2 @@
+The infotainment system freezes when connecting certain Android smartphones via USB. Reported in 2022 Volkswagen ID.4, VIN: WVWKR7AU6NW123456. Technician found outdated firmware on the MIB2 system. Firmware version: MIB2_7.5.3.
+
