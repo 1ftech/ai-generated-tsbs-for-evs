@@ -206,5 +206,5 @@ You can customize the prompt to match your formatting preferences or tone of voi
 **Iftekhar Ahmed**
 Berlin, Germany
 *AI | ML | Automation | Sustainability*
-[LinkedIn](https://linkedin.com/in/yourprofile) *([Add your link here](https://www.linkedin.com/in/ahmed-iftekhar/))*
+ 
 
