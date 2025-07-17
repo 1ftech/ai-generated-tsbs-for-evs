@@ -187,7 +187,7 @@ You can customize the prompt to match your formatting preferences or tone of voi
 * ✅ Clustering of logs for grouped TSBs
 * ✅ Markdown file generation for each TSB
 * ✅ Streamlit UI for manual upload and generation
-* 📌 Export to PDF (Planned)
+* ✅ Export to PDF 
 * 🔄 Add quality evaluation & ranking (Planned)
 * 📊 Multi-log summarization via embedding clustering (Planned)
 
